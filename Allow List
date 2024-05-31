@@ -1,0 +1,39 @@
+#
+! Allowlist
+@@||tags.tiqcdn.com^$important
+@@||benefithub.com^$important
+@@||telemetry.api.2kcoretech.online^$client='batbox'
+@@||eulatracking-public-service-prod.ol.epicgames.com^$client='batbox'
+@@||click.email.active.com^$client='jaky-galaxy-s9'
+@@||hsbc.co.uk^$important
+#
+! Allow Proton
+@@||getproton.me^$important
+@@||vpn-api.proton.my^$important
+@@||protonstatus.com^$important
+@@||protonvpn.ch^$important
+@@||protonvpn.com^$important
+@@||protonvpn.net^$important
+@@||proton.me^$important
+#
+! Allow TOR
+@@||torproject.org^$important
+#
+!Allow Mullvad
+@@||mullvad.net^$important
+#
+! Allow Unrestricted YouTube for Regular and Admin Devices
+@@www.youtube.com^$important,ctag=user_regular|user_admin
+@@m.youtube.com^$important,ctag=user_regular|user_admin
+@@youtubei.googleapis.com^$important,ctag=user_regular|user_admin
+@@youtube.googleapis.com^$important,ctag=user_regular|user_admin
+@@www.youtube-nocookie.com^$important,ctag=user_regular|user_admin
+#
+! Allow Unrestricted Google, DuckDuckGo and Bing Search for Admin Devices
+@@www.google.com^$important,ctag=user_admin
+@@www.google.co.uk^$important,ctag=user_admin
+@@duckduckgo.com^$important,ctag=user_admin
+@@www.duckduckgo.com^$important,ctag=user_admin
+@@start.duckduckgo.com^$important,ctag=user_admin
+@@www.bing.com^$important,ctag=user_admin
+#
