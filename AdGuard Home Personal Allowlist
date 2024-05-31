@@ -5,7 +5,7 @@
 @@||telemetry.api.2kcoretech.online^$important,$client='batbox'
 @@||eulatracking-public-service-prod.ol.epicgames.com^$important,$client='batbox'
 @@||click.email.active.com^$important,$client='jaky-galaxy-s9'
-@@||pornhub.com^$important,$client='batphone'
+@@||pornhub.com^$client='batphone'
 #
 ! Allow Proton Services for Admin Devices
 @@||getproton.me^$important,ctag=user_admin
