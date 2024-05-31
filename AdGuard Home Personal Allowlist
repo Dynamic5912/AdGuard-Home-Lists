@@ -16,7 +16,7 @@
 @@||proton.me^$important,ctag=user_admin
 #
 ! Allow TOR for Admin Devices
-@@||torproject.org^$important,ctag=user_admin
+@@||torproject.org^$important,ctag=user_regular
 #
 !Allow Mullvad for Admin Devices
 @@||mullvad.net^$important,ctag=user_admin
