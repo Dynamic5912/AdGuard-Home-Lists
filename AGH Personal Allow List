@@ -7,14 +7,14 @@
 @@||click.email.active.com^$client='jaky-galaxy-s9'
 @@||hsbc.co.uk^$important
 #
-! Allow Proton Services
-@@||getproton.me^$important
-@@||vpn-api.proton.my^$important
-@@||protonstatus.com^$important
-@@||protonvpn.ch^$important
-@@||protonvpn.com^$important
-@@||protonvpn.net^$important
-@@||proton.me^$important
+! Allow Proton Services for Admin Devices
+@@||getproton.me^$important,ctag=user_admin
+@@||vpn-api.proton.my^$important,ctag=user_admin
+@@||protonstatus.com^$important,ctag=user_admin
+@@||protonvpn.ch^$important,ctag=user_admin
+@@||protonvpn.com^$important,ctag=user_admin
+@@||protonvpn.net^$important,ctag=user_admin
+@@||proton.me^$important,ctag=user_admin
 #
 ! Allow TOR for Admin Devices
 @@||torproject.org^$important,ctag=user_admin
