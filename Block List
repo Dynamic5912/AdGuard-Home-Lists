@@ -1,0 +1,27 @@
+#
+! Block WPAD Domain
+||wpad.knightfall^$important
+#
+! Block Malicious TLDs
+||zip^$important
+||mov^$important
+#
+! Block Country TLDs
+||ru^$important
+||tr^$important
+||br^$important
+||ir^$important
+||iq^$important
+||ro^$important
+||af^$important
+||vn^$important
+||kp^$important
+||sy^$important
+||ng^$important
+||in^$important
+||by^$important
+||kg^$important
+||cn^$important
+||sd^$important
+||cu^$important
+#
