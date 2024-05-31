@@ -7,7 +7,7 @@
 @@||click.email.active.com^$client='jaky-galaxy-s9'
 @@||hsbc.co.uk^$important
 #
-! Allow Proton
+! Allow Proton Services
 @@||getproton.me^$important
 @@||vpn-api.proton.my^$important
 @@||protonstatus.com^$important
@@ -16,11 +16,11 @@
 @@||protonvpn.net^$important
 @@||proton.me^$important
 #
-! Allow TOR
-@@||torproject.org^$important
+! Allow TOR for Admin Devices
+@@||torproject.org^$important,ctag=user_admin
 #
-!Allow Mullvad
-@@||mullvad.net^$important
+!Allow Mullvad for Admin Devices
+@@||mullvad.net^$important,ctag=user_admin
 #
 ! Allow Unrestricted YouTube for Regular and Admin Devices
 @@www.youtube.com^$important,ctag=user_regular|user_admin
