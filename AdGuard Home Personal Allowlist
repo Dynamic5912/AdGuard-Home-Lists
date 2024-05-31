@@ -2,9 +2,9 @@
 ! Allowlist
 @@||tags.tiqcdn.com^$important
 @@||benefithub.com^$important
-@@||telemetry.api.2kcoretech.online^$client='batbox'
-@@||eulatracking-public-service-prod.ol.epicgames.com^$client='batbox'
-@@||click.email.active.com^$client='jaky-galaxy-s9'
+@@||telemetry.api.2kcoretech.online^$important,$client='batbox'
+@@||eulatracking-public-service-prod.ol.epicgames.com^$important,$client='batbox'
+@@||click.email.active.com^$important,$client='jaky-galaxy-s9'
 #
 ! Allow Proton Services for Admin Devices
 @@||getproton.me^$important,ctag=user_admin
