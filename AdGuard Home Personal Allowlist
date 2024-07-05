@@ -2,7 +2,6 @@
 ! Allowlist
 @@||tags.tiqcdn.com^$important
 @@||centricabritishgas.sc.omtrdc.net^$important
-@@||wireguard.com^$important
 #
 ! Allow Proton Services for Admin Devices
 @@||getproton.me^$important,ctag=user_admin
@@ -18,6 +17,9 @@
 #
 !Allow Mullvad for Admin Devices
 @@||mullvad.net^$important,ctag=user_admin
+#
+!Allow WireGuard for Admin Devices
+@@||wireguard.com^$important,ctag=user_admin
 #
 ! Allow Unrestricted YouTube for Regular and Admin Devices
 @@www.youtube.com^$important,ctag=user_regular|user_admin
