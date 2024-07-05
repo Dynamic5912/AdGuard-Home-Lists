@@ -2,6 +2,7 @@
 ! Allowlist
 @@||tags.tiqcdn.com^$important
 @@||centricabritishgas.sc.omtrdc.net^$important
+@@||wireguard.com^$important
 #
 ! Allow Proton Services for Admin Devices
 @@||getproton.me^$important,ctag=user_admin
