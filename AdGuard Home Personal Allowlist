@@ -4,36 +4,36 @@
 @@||centricabritishgas.sc.omtrdc.net^$important
 #
 ! Allow Proton for Admin Devices
-@@||getproton.me^$important,$ctag=user_admin
-@@||vpn-api.proton.my^$important,$ctag=user_admin
-@@||protonstatus.com^$important,$ctag=user_admin
-@@||protonvpn.ch^$important,$ctag=user_admin
-@@||protonvpn.com^$important,$ctag=user_admin
-@@||protonvpn.net^$important,$ctag=user_admin
-@@||proton.me^$important,$ctag=user_admin
+@@||getproton.me^$important,ctag=user_admin
+@@||vpn-api.proton.my^$important,ctag=user_admin
+@@||protonstatus.com^$important,ctag=user_admin
+@@||protonvpn.ch^$important,ctag=user_admin
+@@||protonvpn.com^$important,ctag=user_admin
+@@||protonvpn.net^$important,ctag=user_admin
+@@||proton.me^$important,ctag=user_admin
 #
 ! Allow TOR for Admin Devices
-@@||torproject.org^$important,$ctag=user_admin
+@@||torproject.org^$important,ctag=user_admin
 #
 !Allow Mullvad for Admin Devices
-@@||mullvad.net^$important,$ctag=user_admin
+@@||mullvad.net^$important,ctag=user_admin
 #
 !Allow WireGuard for Admin Devices
-@@||wireguard.com^$important,$ctag=user_admin
+@@||wireguard.com^$important,ctag=user_admin
 #
 ! Allow Unrestricted YouTube for Regular and Admin Devices
-@@www.youtube.com^$important,$ctag=user_regular|user_admin
-@@m.youtube.com^$important,$ctag=user_regular|user_admin
-@@youtubei.googleapis.com^$important,$ctag=user_regular|user_admin
-@@youtube.googleapis.com^$important,$ctag=user_regular|user_admin
-@@www.youtube-nocookie.com^$important,$ctag=user_regular|user_admin
+@@www.youtube.com^$important,ctag=user_regular|user_admin
+@@m.youtube.com^$important,ctag=user_regular|user_admin
+@@youtubei.googleapis.com^$important,ctag=user_regular|user_admin
+@@youtube.googleapis.com^$important,ctag=user_regular|user_admin
+@@www.youtube-nocookie.com^$important,ctag=user_regular|user_admin
 #
 ! Allow Unrestricted Google, DuckDuckGo and Bing Search for Admin Devices
-@@www.google.com^$important,$ctag=user_admin
-@@www.google.co.uk^$important,$ctag=user_admin
-@@duckduckgo.com^$important,$ctag=user_admin
-@@www.duckduckgo.com^$important,$ctag=user_admin
-@@start.duckduckgo.com^$important,$ctag=user_admin
-@@www.bing.com^$important,$ctag=user_admin
-@@edgeservices.bing.com^$important,$ctag=user_admin
+@@www.google.com^$important,ctag=user_admin
+@@www.google.co.uk^$important,ctag=user_admin
+@@duckduckgo.com^$important,ctag=user_admin
+@@www.duckduckgo.com^$important,ctag=user_admin
+@@start.duckduckgo.com^$important,ctag=user_admin
+@@www.bing.com^$important,ctag=user_admin
+@@edgeservices.bing.com^$important,ctag=user_admin
 #
