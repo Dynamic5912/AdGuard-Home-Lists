@@ -1,5 +1,5 @@
 #
-! Allowlist
+! Global Allowlist
 @@||tags.tiqcdn.com^$important
 @@||centricabritishgas.sc.omtrdc.net^$important
 #
