@@ -1,0 +1,5 @@
+#
+!Allow SearXNG for Admin Devices
+@@||searxng.org^$important,ctag=user_admin
+@@||searx.space^$important,ctag=user_admin
+@@||searx.be^$important,ctag=user_admin
