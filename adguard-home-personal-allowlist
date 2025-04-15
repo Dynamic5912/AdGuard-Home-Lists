@@ -38,5 +38,5 @@
 @@edgeservices.bing.com^$important,ctag=user_admin
 #
 ! Allow Microsoft Family Safety Reporting
-@@||events.data.microsoft.com^$important,client=jodie-laptop|caitlin-laptop|batbox
+@@||self.events.data.microsoft.com^$important,client=jodie-laptop|caitlin-laptop|batbox
 #
