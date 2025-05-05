@@ -1,4 +1,9 @@
 #
+! To fully block a domain with ALL subdomains and TLDs use the following rule
+! ||domainhostname.*^$important,client=CLIENTNAME
+! To fully block ANY part of the domain name you must wildcard the rule as follows
+! ||*domainhostname*.*^$important,client=CLIENTNAME
+#
 ! Block WPAD Domain
 ||wpad.knightfall^$important
 #
