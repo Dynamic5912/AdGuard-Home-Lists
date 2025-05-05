@@ -3,6 +3,12 @@
 @@||tags.tiqcdn.com^$important
 @@||centricabritishgas.sc.omtrdc.net^$important
 #
+! Allow AdGuard DNS for Admin Devices
+@@||adguard-dns.com^$important,ctag=user_admin
+#
+! Allow Mullvad for Admin Devices
+@@||mullvad.net^$important,ctag=user_admin
+#
 ! Allow Proton for Admin Devices
 @@||getproton.me^$important,ctag=user_admin
 @@||vpn-api.proton.my^$important,ctag=user_admin
@@ -11,12 +17,6 @@
 @@||protonvpn.com^$important,ctag=user_admin
 @@||protonvpn.net^$important,ctag=user_admin
 @@||proton.me^$important,ctag=user_admin
-#
-! Allow AdGuard DNS for Admin Devices
-@@||adguard-dns.com^$important,ctag=user_admin
-#
-! Allow Mullvad for Admin Devices
-@@||mullvad.net^$important,ctag=user_admin
 #
 ! Allow TOR for Admin Devices
 @@||torproject.org^$important,ctag=user_admin
