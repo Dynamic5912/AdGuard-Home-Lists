@@ -24,13 +24,6 @@
 ! Allow WireGuard for Admin Devices
 @@||wireguard.com^$important,ctag=user_admin
 #
-! Allow Unrestricted YouTube for Regular and Admin Devices
-@@www.youtube.com^$important,ctag=user_regular|user_admin
-@@m.youtube.com^$important,ctag=user_regular|user_admin
-@@youtubei.googleapis.com^$important,ctag=user_regular|user_admin
-@@youtube.googleapis.com^$important,ctag=user_regular|user_admin
-@@www.youtube-nocookie.com^$important,ctag=user_regular|user_admin
-#
 ! Allow Unrestricted Google, DuckDuckGo and Bing Search for Admin Devices
 @@www.google.com^$important,ctag=user_admin
 @@www.google.co.uk^$important,ctag=user_admin
@@ -39,6 +32,13 @@
 @@start.duckduckgo.com^$important,ctag=user_admin
 @@www.bing.com^$important,ctag=user_admin
 @@edgeservices.bing.com^$important,ctag=user_admin
+#
+! Allow Unrestricted YouTube for Regular and Admin Devices
+@@www.youtube.com^$important,ctag=user_regular|user_admin
+@@m.youtube.com^$important,ctag=user_regular|user_admin
+@@youtubei.googleapis.com^$important,ctag=user_regular|user_admin
+@@youtube.googleapis.com^$important,ctag=user_regular|user_admin
+@@www.youtube-nocookie.com^$important,ctag=user_regular|user_admin
 #
 ! Allow Microsoft Family Safety Reporting
 @@||events.data.microsoft.com^$important,client=jodie-laptop|caitlin-laptop|batbox
