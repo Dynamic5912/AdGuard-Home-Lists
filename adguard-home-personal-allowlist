@@ -44,3 +44,6 @@
 ! Allow Microsoft Family Safety Reporting
 @@||events.data.microsoft.com^$important,client=jodie-laptop|caitlin-laptop|batbox
 #
+! Allow Location Services on Windows Devices
+@@||inference.location.live.net^$important,ctag=os_windows
+#
