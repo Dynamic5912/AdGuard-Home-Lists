@@ -9,6 +9,7 @@
 #
 ! Allow AdGuard DNS for Admin Devices
 @@||adguard-dns.com^$important,ctag=user_admin
+@@||adguard-dns.io^$important,ctag=user_admin
 #
 ! Allow NextDNS for Admin Devices
 @@||nextdns.io^$important,ctag=user_admin
