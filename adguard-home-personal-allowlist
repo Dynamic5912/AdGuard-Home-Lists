@@ -13,9 +13,6 @@
 ! Allow NextDNS for Admin Devices
 @@||nextdns.io^$important,ctag=user_admin
 #
-! Allow Mullvad for Admin Devices
-@@||mullvad.net^$important,ctag=user_admin
-#
 ! Allow Proton for Admin Devices
 @@||getproton.me^$important,ctag=user_admin
 @@||vpn-api.proton.my^$important,ctag=user_admin
@@ -27,6 +24,9 @@
 #
 ! Allow TOR for Admin Devices
 @@||torproject.org^$important,ctag=user_admin
+#
+! Allow Mullvad for Admin Devices
+@@||mullvad.net^$important,ctag=user_admin
 #
 ! Allow WireGuard for Admin Devices
 @@||wireguard.com^$important,ctag=user_admin
