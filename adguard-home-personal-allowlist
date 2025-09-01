@@ -4,6 +4,9 @@
 @@||centricabritishgas.sc.omtrdc.net^$important
 @@||ipinfo.io^$important
 #
+! Allow Personal Domains
+@@||knightfall.tech^$important
+#
 ! Allow AdGuard DNS for Admin Devices
 @@||adguard-dns.com^$important,ctag=user_admin
 #
